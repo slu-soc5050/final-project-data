@@ -11,6 +11,15 @@ This repository contains files for:
   - `final-project-data.Rproj`
   - `LICENSE.md`
   - `README.md`
+  
+### Using the Data
+To open the data in a notebook where the data are stored in the `data/` folder of your project:
+
+```r
+load(here("data", "gss16.rda"))
+```
+
+This will open the `gss16` object in your enviornment.
 
 ### License Information
 These data and files are subject to ICPSR's [Terms of Use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20460/terms), which are included in the [LICENSE.md file](LICENSE.md).
