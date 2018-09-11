@@ -1,0 +1,26 @@
+Bibliography
+General Social Survey, 1972-2016 [Cumulative File]
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36797. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Coffey, Diane; Hathi, Payal; Khurana, Nidhi; Thorat, Amit, "Explicit
+prejudice: Evidence from a new survey." Economic and Political Weekly. Jan
+2018, 53, (1), 46 - 52.
+
+2. Denham, Bryan E., "Correlates of pride in the performance success of
+United States athletes competing on an international stage." International
+Review for the Sociology of Sport. Dec 2010, 45, (4), 457 - 473. DOI:
+10.1177/1012690210373540
+
+3. Ngamaba, Kayonda Hubert; Panagioti, Maria; Armitage, Christopher J.,
+"Income inequality and subjective well-being: A systematic review and meta-
+analysis." Quality of Life Research. 2018, 27, (3), 577 - 596. DOI:
+10.1007/s11136-017-1719-x
